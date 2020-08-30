@@ -1,0 +1,13 @@
+C:\Users\Jay Dong\Source\Repos\MarbleMadness2020\FiniteElement\bin\Debug\netstandard2.1\FiniteElement.deps.json
+C:\Users\Jay Dong\Source\Repos\MarbleMadness2020\FiniteElement\bin\Debug\netstandard2.1\FiniteElement.dll
+C:\Users\Jay Dong\Source\Repos\MarbleMadness2020\FiniteElement\bin\Debug\netstandard2.1\FiniteElement.pdb
+C:\Users\Jay Dong\Source\Repos\MarbleMadness2020\FiniteElement\bin\Debug\netstandard2.1\DongUtility.dll
+C:\Users\Jay Dong\Source\Repos\MarbleMadness2020\FiniteElement\bin\Debug\netstandard2.1\PhysicsUtility.dll
+C:\Users\Jay Dong\Source\Repos\MarbleMadness2020\FiniteElement\bin\Debug\netstandard2.1\DongUtility.pdb
+C:\Users\Jay Dong\Source\Repos\MarbleMadness2020\FiniteElement\bin\Debug\netstandard2.1\PhysicsUtility.pdb
+C:\Users\Jay Dong\Source\Repos\MarbleMadness2020\FiniteElement\obj\Debug\netstandard2.1\FiniteElement.csprojAssemblyReference.cache
+C:\Users\Jay Dong\Source\Repos\MarbleMadness2020\FiniteElement\obj\Debug\netstandard2.1\FiniteElement.AssemblyInfoInputs.cache
+C:\Users\Jay Dong\Source\Repos\MarbleMadness2020\FiniteElement\obj\Debug\netstandard2.1\FiniteElement.AssemblyInfo.cs
+C:\Users\Jay Dong\Source\Repos\MarbleMadness2020\FiniteElement\obj\Debug\netstandard2.1\FiniteElement.csproj.CopyComplete
+C:\Users\Jay Dong\Source\Repos\MarbleMadness2020\FiniteElement\obj\Debug\netstandard2.1\FiniteElement.dll
+C:\Users\Jay Dong\Source\Repos\MarbleMadness2020\FiniteElement\obj\Debug\netstandard2.1\FiniteElement.pdb

@@ -1,0 +1,159 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DongUtility/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/DongUtility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DongUtility.dll": {}
+        }
+      },
+      "GraphControl/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DongUtility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GraphControl.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GraphControl.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "VisualizerControl/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DongUtility": "1.0.0",
+          "WPFUtility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/VisualizerControl.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VisualizerControl.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "WPFUtility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DongUtility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WPFUtility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WPFUtility.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "DongUtility/1.0.0": {
+      "type": "project",
+      "path": "../DongUtility/DongUtility.csproj",
+      "msbuildProject": "../DongUtility/DongUtility.csproj"
+    },
+    "GraphControl/1.0.0": {
+      "type": "project",
+      "path": "../GraphControl/GraphControl.csproj",
+      "msbuildProject": "../GraphControl/GraphControl.csproj"
+    },
+    "VisualizerControl/1.0.0": {
+      "type": "project",
+      "path": "../VisualizerControl/VisualizerControl.csproj",
+      "msbuildProject": "../VisualizerControl/VisualizerControl.csproj"
+    },
+    "WPFUtility/1.0.0": {
+      "type": "project",
+      "path": "../WPFUtility/WPFUtility.csproj",
+      "msbuildProject": "../WPFUtility/WPFUtility.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "GraphControl >= 1.0.0",
+      "VisualizerControl >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Jay Dong\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Jay Dong\\source\\repos\\FastestDescent\\MotionVisualizer\\MotionVisualizer.csproj",
+      "projectName": "MotionVisualizer",
+      "projectPath": "C:\\Users\\Jay Dong\\source\\repos\\FastestDescent\\MotionVisualizer\\MotionVisualizer.csproj",
+      "packagesPath": "C:\\Users\\Jay Dong\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jay Dong\\source\\repos\\FastestDescent\\MotionVisualizer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Jay Dong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Jay Dong\\source\\repos\\FastestDescent\\GraphControl\\GraphControl.csproj": {
+              "projectPath": "C:\\Users\\Jay Dong\\source\\repos\\FastestDescent\\GraphControl\\GraphControl.csproj"
+            },
+            "C:\\Users\\Jay Dong\\source\\repos\\FastestDescent\\VisualizerControl\\VisualizerControl.csproj": {
+              "projectPath": "C:\\Users\\Jay Dong\\source\\repos\\FastestDescent\\VisualizerControl\\VisualizerControl.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\Jay Dong\source\repos\Kinematics2020\DongUtility\bin\Debug\DongUtility.dll
+C:\Users\Jay Dong\source\repos\Kinematics2020\DongUtility\bin\Debug\DongUtility.pdb
+C:\Users\Jay Dong\source\repos\Kinematics2020\DongUtility\obj\Debug\DongUtility.csprojAssemblyReference.cache
+C:\Users\Jay Dong\source\repos\Kinematics2020\DongUtility\obj\Debug\DongUtility.dll
+C:\Users\Jay Dong\source\repos\Kinematics2020\DongUtility\obj\Debug\DongUtility.pdb

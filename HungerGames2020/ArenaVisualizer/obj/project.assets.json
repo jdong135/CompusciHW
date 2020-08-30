@@ -1,0 +1,180 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Arena/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "DongUtility": "1.0.0",
+          "GraphData": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Arena.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Arena.dll": {}
+        }
+      },
+      "DongUtility/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/DongUtility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DongUtility.dll": {}
+        }
+      },
+      "GraphControl/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DongUtility": "1.0.0",
+          "GraphData": "1.0.0",
+          "WPFUtility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GraphControl.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GraphControl.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "GraphData/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "DongUtility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GraphData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GraphData.dll": {}
+        }
+      },
+      "WPFUtility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "DongUtility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WPFUtility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WPFUtility.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Arena/1.0.0": {
+      "type": "project",
+      "path": "../Arena/Arena.csproj",
+      "msbuildProject": "../Arena/Arena.csproj"
+    },
+    "DongUtility/1.0.0": {
+      "type": "project",
+      "path": "../DongUtility/DongUtility.csproj",
+      "msbuildProject": "../DongUtility/DongUtility.csproj"
+    },
+    "GraphControl/1.0.0": {
+      "type": "project",
+      "path": "../GraphControl/GraphControl.csproj",
+      "msbuildProject": "../GraphControl/GraphControl.csproj"
+    },
+    "GraphData/1.0.0": {
+      "type": "project",
+      "path": "../GraphData/GraphData.csproj",
+      "msbuildProject": "../GraphData/GraphData.csproj"
+    },
+    "WPFUtility/1.0.0": {
+      "type": "project",
+      "path": "../WPFUtility/WPFUtility.csproj",
+      "msbuildProject": "../WPFUtility/WPFUtility.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Arena >= 1.0.0",
+      "DongUtility >= 1.0.0",
+      "GraphControl >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Jay Dong\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\ArenaVisualizer\\ArenaVisualizer.csproj",
+      "projectName": "ArenaVisualizer",
+      "projectPath": "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\ArenaVisualizer\\ArenaVisualizer.csproj",
+      "packagesPath": "C:\\Users\\Jay Dong\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\ArenaVisualizer\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Jay Dong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\Arena\\Arena.csproj": {
+              "projectPath": "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\Arena\\Arena.csproj"
+            },
+            "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\DongUtility\\DongUtility.csproj": {
+              "projectPath": "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\DongUtility\\DongUtility.csproj"
+            },
+            "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\GraphControl\\GraphControl.csproj": {
+              "projectPath": "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\GraphControl\\GraphControl.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Jay Dong\Source\Repos\DecisionTree2020\DecisionTree\bin\Debug\netcoreapp3.1\DecisionTree.exe
+C:\Users\Jay Dong\Source\Repos\DecisionTree2020\DecisionTree\bin\Debug\netcoreapp3.1\DecisionTree.deps.json
+C:\Users\Jay Dong\Source\Repos\DecisionTree2020\DecisionTree\bin\Debug\netcoreapp3.1\DecisionTree.runtimeconfig.json
+C:\Users\Jay Dong\Source\Repos\DecisionTree2020\DecisionTree\bin\Debug\netcoreapp3.1\DecisionTree.runtimeconfig.dev.json
+C:\Users\Jay Dong\Source\Repos\DecisionTree2020\DecisionTree\bin\Debug\netcoreapp3.1\DecisionTree.dll
+C:\Users\Jay Dong\Source\Repos\DecisionTree2020\DecisionTree\bin\Debug\netcoreapp3.1\DecisionTree.pdb
+C:\Users\Jay Dong\Source\Repos\DecisionTree2020\DecisionTree\obj\Debug\netcoreapp3.1\DecisionTree.csprojAssemblyReference.cache
+C:\Users\Jay Dong\Source\Repos\DecisionTree2020\DecisionTree\obj\Debug\netcoreapp3.1\DecisionTree.AssemblyInfoInputs.cache
+C:\Users\Jay Dong\Source\Repos\DecisionTree2020\DecisionTree\obj\Debug\netcoreapp3.1\DecisionTree.AssemblyInfo.cs
+C:\Users\Jay Dong\Source\Repos\DecisionTree2020\DecisionTree\obj\Debug\netcoreapp3.1\DecisionTree.dll
+C:\Users\Jay Dong\Source\Repos\DecisionTree2020\DecisionTree\obj\Debug\netcoreapp3.1\DecisionTree.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jay Dong\source\repos\HungerGames2020\DongUtility\bin\Debug\netstandard2.1\DongUtility.deps.json
+C:\Users\Jay Dong\source\repos\HungerGames2020\DongUtility\bin\Debug\netstandard2.1\DongUtility.dll
+C:\Users\Jay Dong\source\repos\HungerGames2020\DongUtility\bin\Debug\netstandard2.1\DongUtility.pdb
+C:\Users\Jay Dong\source\repos\HungerGames2020\DongUtility\obj\Debug\netstandard2.1\DongUtility.AssemblyInfoInputs.cache
+C:\Users\Jay Dong\source\repos\HungerGames2020\DongUtility\obj\Debug\netstandard2.1\DongUtility.AssemblyInfo.cs
+C:\Users\Jay Dong\source\repos\HungerGames2020\DongUtility\obj\Debug\netstandard2.1\DongUtility.dll
+C:\Users\Jay Dong\source\repos\HungerGames2020\DongUtility\obj\Debug\netstandard2.1\DongUtility.pdb

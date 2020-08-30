@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "FiniteElement/1.0.0": {
+        "dependencies": {
+          "PhysicsUtility": "1.0.0"
+        },
+        "runtime": {
+          "FiniteElement.dll": {}
+        }
+      },
+      "DongUtility/1.0.0": {
+        "runtime": {
+          "DongUtility.dll": {}
+        }
+      },
+      "PhysicsUtility/1.0.0": {
+        "dependencies": {
+          "DongUtility": "1.0.0"
+        },
+        "runtime": {
+          "PhysicsUtility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FiniteElement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DongUtility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhysicsUtility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

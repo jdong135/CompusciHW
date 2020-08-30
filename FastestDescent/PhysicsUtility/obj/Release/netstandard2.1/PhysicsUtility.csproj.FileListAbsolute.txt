@@ -1,0 +1,11 @@
+C:\Users\Jay Dong\source\repos\FastestDescent\PhysicsUtility\bin\Release\netstandard2.1\PhysicsUtility.deps.json
+C:\Users\Jay Dong\source\repos\FastestDescent\PhysicsUtility\bin\Release\netstandard2.1\PhysicsUtility.dll
+C:\Users\Jay Dong\source\repos\FastestDescent\PhysicsUtility\bin\Release\netstandard2.1\PhysicsUtility.pdb
+C:\Users\Jay Dong\source\repos\FastestDescent\PhysicsUtility\bin\Release\netstandard2.1\DongUtility.dll
+C:\Users\Jay Dong\source\repos\FastestDescent\PhysicsUtility\bin\Release\netstandard2.1\DongUtility.pdb
+C:\Users\Jay Dong\source\repos\FastestDescent\PhysicsUtility\obj\Release\netstandard2.1\PhysicsUtility.csprojAssemblyReference.cache
+C:\Users\Jay Dong\source\repos\FastestDescent\PhysicsUtility\obj\Release\netstandard2.1\PhysicsUtility.AssemblyInfoInputs.cache
+C:\Users\Jay Dong\source\repos\FastestDescent\PhysicsUtility\obj\Release\netstandard2.1\PhysicsUtility.AssemblyInfo.cs
+C:\Users\Jay Dong\source\repos\FastestDescent\PhysicsUtility\obj\Release\netstandard2.1\PhysicsUtility.csproj.CopyComplete
+C:\Users\Jay Dong\source\repos\FastestDescent\PhysicsUtility\obj\Release\netstandard2.1\PhysicsUtility.dll
+C:\Users\Jay Dong\source\repos\FastestDescent\PhysicsUtility\obj\Release\netstandard2.1\PhysicsUtility.pdb

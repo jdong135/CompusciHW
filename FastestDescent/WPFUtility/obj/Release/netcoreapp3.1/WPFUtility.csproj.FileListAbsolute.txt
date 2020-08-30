@@ -1,0 +1,11 @@
+C:\Users\Jay Dong\source\repos\FastestDescent\WPFUtility\bin\Release\netcoreapp3.1\WPFUtility.deps.json
+C:\Users\Jay Dong\source\repos\FastestDescent\WPFUtility\bin\Release\netcoreapp3.1\WPFUtility.dll
+C:\Users\Jay Dong\source\repos\FastestDescent\WPFUtility\bin\Release\netcoreapp3.1\WPFUtility.pdb
+C:\Users\Jay Dong\source\repos\FastestDescent\WPFUtility\bin\Release\netcoreapp3.1\DongUtility.dll
+C:\Users\Jay Dong\source\repos\FastestDescent\WPFUtility\bin\Release\netcoreapp3.1\DongUtility.pdb
+C:\Users\Jay Dong\source\repos\FastestDescent\WPFUtility\obj\Release\netcoreapp3.1\WPFUtility.csprojAssemblyReference.cache
+C:\Users\Jay Dong\source\repos\FastestDescent\WPFUtility\obj\Release\netcoreapp3.1\WPFUtility.AssemblyInfoInputs.cache
+C:\Users\Jay Dong\source\repos\FastestDescent\WPFUtility\obj\Release\netcoreapp3.1\WPFUtility.AssemblyInfo.cs
+C:\Users\Jay Dong\source\repos\FastestDescent\WPFUtility\obj\Release\netcoreapp3.1\WPFUtility.csproj.CopyComplete
+C:\Users\Jay Dong\source\repos\FastestDescent\WPFUtility\obj\Release\netcoreapp3.1\WPFUtility.dll
+C:\Users\Jay Dong\source\repos\FastestDescent\WPFUtility\obj\Release\netcoreapp3.1\WPFUtility.pdb

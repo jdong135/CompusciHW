@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="ArenaVisualizer.MainArenaVisualizer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ArenaVisualizer"
+             xmlns:graphcontrol="clr-namespace:GraphControl;assembly=GraphControl"
+             mc:Ignorable="d" Height="Auto" Width="Auto"
+             HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch"
+             HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+             <!--MouseWheel="MyViewport_MouseWheel"--> 
+            
+    <Grid Background="Gray">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="7*" />
+            <ColumnDefinition Width="3*" />
+        </Grid.ColumnDefinitions>
+        <ContentControl Grid.Column="0" Name="ArenaViewport"></ContentControl>
+        <graphcontrol:CompositeGraph BorderBrush="Gray" BorderThickness="0 3 3 3" Grid.Column="1" Name="Graphs" Background="White"/>
+    </Grid>
+</UserControl>

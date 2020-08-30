@@ -1,0 +1,15 @@
+C:\Users\Jay Dong\source\repos\HungerGames2020\HungerGamesCore\bin\Debug\netstandard2.1\HungerGamesCore.deps.json
+C:\Users\Jay Dong\source\repos\HungerGames2020\HungerGamesCore\bin\Debug\netstandard2.1\HungerGamesCore.dll
+C:\Users\Jay Dong\source\repos\HungerGames2020\HungerGamesCore\bin\Debug\netstandard2.1\HungerGamesCore.pdb
+C:\Users\Jay Dong\source\repos\HungerGames2020\HungerGamesCore\bin\Debug\netstandard2.1\Arena.dll
+C:\Users\Jay Dong\source\repos\HungerGames2020\HungerGamesCore\bin\Debug\netstandard2.1\DongUtility.dll
+C:\Users\Jay Dong\source\repos\HungerGames2020\HungerGamesCore\bin\Debug\netstandard2.1\GraphData.dll
+C:\Users\Jay Dong\source\repos\HungerGames2020\HungerGamesCore\bin\Debug\netstandard2.1\Arena.pdb
+C:\Users\Jay Dong\source\repos\HungerGames2020\HungerGamesCore\bin\Debug\netstandard2.1\DongUtility.pdb
+C:\Users\Jay Dong\source\repos\HungerGames2020\HungerGamesCore\bin\Debug\netstandard2.1\GraphData.pdb
+C:\Users\Jay Dong\source\repos\HungerGames2020\HungerGamesCore\obj\Debug\netstandard2.1\HungerGamesCore.csprojAssemblyReference.cache
+C:\Users\Jay Dong\source\repos\HungerGames2020\HungerGamesCore\obj\Debug\netstandard2.1\HungerGamesCore.AssemblyInfoInputs.cache
+C:\Users\Jay Dong\source\repos\HungerGames2020\HungerGamesCore\obj\Debug\netstandard2.1\HungerGamesCore.AssemblyInfo.cs
+C:\Users\Jay Dong\source\repos\HungerGames2020\HungerGamesCore\obj\Debug\netstandard2.1\HungerGamesCore.csproj.CopyComplete
+C:\Users\Jay Dong\source\repos\HungerGames2020\HungerGamesCore\obj\Debug\netstandard2.1\HungerGamesCore.dll
+C:\Users\Jay Dong\source\repos\HungerGames2020\HungerGamesCore\obj\Debug\netstandard2.1\HungerGamesCore.pdb

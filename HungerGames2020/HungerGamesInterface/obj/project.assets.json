@@ -1,0 +1,148 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "Arena/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "DongUtility": "1.0.0",
+          "GraphData": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Arena.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Arena.dll": {}
+        }
+      },
+      "DongUtility/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/DongUtility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DongUtility.dll": {}
+        }
+      },
+      "GraphData/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "DongUtility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GraphData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GraphData.dll": {}
+        }
+      },
+      "HungerGamesCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Arena": "1.0.0",
+          "DongUtility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/HungerGamesCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HungerGamesCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arena/1.0.0": {
+      "type": "project",
+      "path": "../Arena/Arena.csproj",
+      "msbuildProject": "../Arena/Arena.csproj"
+    },
+    "DongUtility/1.0.0": {
+      "type": "project",
+      "path": "../DongUtility/DongUtility.csproj",
+      "msbuildProject": "../DongUtility/DongUtility.csproj"
+    },
+    "GraphData/1.0.0": {
+      "type": "project",
+      "path": "../GraphData/GraphData.csproj",
+      "msbuildProject": "../GraphData/GraphData.csproj"
+    },
+    "HungerGamesCore/1.0.0": {
+      "type": "project",
+      "path": "../HungerGamesCore/HungerGamesCore.csproj",
+      "msbuildProject": "../HungerGamesCore/HungerGamesCore.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "DongUtility >= 1.0.0",
+      "HungerGamesCore >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Jay Dong\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\HungerGamesInterface\\HungerGamesInterface.csproj",
+      "projectName": "HungerGamesInterface",
+      "projectPath": "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\HungerGamesInterface\\HungerGamesInterface.csproj",
+      "packagesPath": "C:\\Users\\Jay Dong\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\HungerGamesInterface\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Jay Dong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "projectReferences": {
+            "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\DongUtility\\DongUtility.csproj": {
+              "projectPath": "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\DongUtility\\DongUtility.csproj"
+            },
+            "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\HungerGamesCore\\HungerGamesCore.csproj": {
+              "projectPath": "C:\\Users\\Jay Dong\\source\\repos\\HungerGames2020\\HungerGamesCore\\HungerGamesCore.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

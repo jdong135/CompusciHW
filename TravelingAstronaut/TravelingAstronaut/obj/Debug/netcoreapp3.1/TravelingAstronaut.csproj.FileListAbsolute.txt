@@ -1,0 +1,14 @@
+C:\Users\Jay Dong\Source\Repos\TravelingAstronaut\TravelingAstronaut\bin\Debug\netcoreapp3.1\TravelingAstronaut.exe
+C:\Users\Jay Dong\Source\Repos\TravelingAstronaut\TravelingAstronaut\bin\Debug\netcoreapp3.1\TravelingAstronaut.deps.json
+C:\Users\Jay Dong\Source\Repos\TravelingAstronaut\TravelingAstronaut\bin\Debug\netcoreapp3.1\TravelingAstronaut.runtimeconfig.json
+C:\Users\Jay Dong\Source\Repos\TravelingAstronaut\TravelingAstronaut\bin\Debug\netcoreapp3.1\TravelingAstronaut.runtimeconfig.dev.json
+C:\Users\Jay Dong\Source\Repos\TravelingAstronaut\TravelingAstronaut\bin\Debug\netcoreapp3.1\TravelingAstronaut.dll
+C:\Users\Jay Dong\Source\Repos\TravelingAstronaut\TravelingAstronaut\bin\Debug\netcoreapp3.1\TravelingAstronaut.pdb
+C:\Users\Jay Dong\Source\Repos\TravelingAstronaut\TravelingAstronaut\bin\Debug\netcoreapp3.1\DongUtility.dll
+C:\Users\Jay Dong\Source\Repos\TravelingAstronaut\TravelingAstronaut\bin\Debug\netcoreapp3.1\DongUtility.pdb
+C:\Users\Jay Dong\Source\Repos\TravelingAstronaut\TravelingAstronaut\obj\Debug\netcoreapp3.1\TravelingAstronaut.csprojAssemblyReference.cache
+C:\Users\Jay Dong\Source\Repos\TravelingAstronaut\TravelingAstronaut\obj\Debug\netcoreapp3.1\TravelingAstronaut.AssemblyInfoInputs.cache
+C:\Users\Jay Dong\Source\Repos\TravelingAstronaut\TravelingAstronaut\obj\Debug\netcoreapp3.1\TravelingAstronaut.AssemblyInfo.cs
+C:\Users\Jay Dong\Source\Repos\TravelingAstronaut\TravelingAstronaut\obj\Debug\netcoreapp3.1\TravelingAstronaut.csproj.CopyComplete
+C:\Users\Jay Dong\Source\Repos\TravelingAstronaut\TravelingAstronaut\obj\Debug\netcoreapp3.1\TravelingAstronaut.dll
+C:\Users\Jay Dong\Source\Repos\TravelingAstronaut\TravelingAstronaut\obj\Debug\netcoreapp3.1\TravelingAstronaut.pdb

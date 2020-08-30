@@ -1,0 +1,93 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ArenaVisualizer/1.0.0": {
+        "dependencies": {
+          "Arena": "1.0.0",
+          "DongUtility": "1.0.0",
+          "GraphControl": "1.0.0"
+        },
+        "runtime": {
+          "ArenaVisualizer.dll": {}
+        }
+      },
+      "Arena/1.0.0": {
+        "dependencies": {
+          "DongUtility": "1.0.0",
+          "GraphData": "1.0.0"
+        },
+        "runtime": {
+          "Arena.dll": {}
+        }
+      },
+      "DongUtility/1.0.0": {
+        "runtime": {
+          "DongUtility.dll": {}
+        }
+      },
+      "GraphControl/1.0.0": {
+        "dependencies": {
+          "DongUtility": "1.0.0",
+          "GraphData": "1.0.0",
+          "WPFUtility": "1.0.0"
+        },
+        "runtime": {
+          "GraphControl.dll": {}
+        }
+      },
+      "GraphData/1.0.0": {
+        "dependencies": {
+          "DongUtility": "1.0.0"
+        },
+        "runtime": {
+          "GraphData.dll": {}
+        }
+      },
+      "WPFUtility/1.0.0": {
+        "dependencies": {
+          "DongUtility": "1.0.0"
+        },
+        "runtime": {
+          "WPFUtility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArenaVisualizer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Arena/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DongUtility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WPFUtility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

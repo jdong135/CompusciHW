@@ -1,0 +1,13 @@
+C:\Users\Jay Dong\source\repos\HungerGames2020\Arena\bin\Debug\netstandard2.1\Arena.deps.json
+C:\Users\Jay Dong\source\repos\HungerGames2020\Arena\bin\Debug\netstandard2.1\Arena.dll
+C:\Users\Jay Dong\source\repos\HungerGames2020\Arena\bin\Debug\netstandard2.1\Arena.pdb
+C:\Users\Jay Dong\source\repos\HungerGames2020\Arena\bin\Debug\netstandard2.1\DongUtility.dll
+C:\Users\Jay Dong\source\repos\HungerGames2020\Arena\bin\Debug\netstandard2.1\GraphData.dll
+C:\Users\Jay Dong\source\repos\HungerGames2020\Arena\bin\Debug\netstandard2.1\DongUtility.pdb
+C:\Users\Jay Dong\source\repos\HungerGames2020\Arena\bin\Debug\netstandard2.1\GraphData.pdb
+C:\Users\Jay Dong\source\repos\HungerGames2020\Arena\obj\Debug\netstandard2.1\Arena.csprojAssemblyReference.cache
+C:\Users\Jay Dong\source\repos\HungerGames2020\Arena\obj\Debug\netstandard2.1\Arena.AssemblyInfoInputs.cache
+C:\Users\Jay Dong\source\repos\HungerGames2020\Arena\obj\Debug\netstandard2.1\Arena.AssemblyInfo.cs
+C:\Users\Jay Dong\source\repos\HungerGames2020\Arena\obj\Debug\netstandard2.1\Arena.csproj.CopyComplete
+C:\Users\Jay Dong\source\repos\HungerGames2020\Arena\obj\Debug\netstandard2.1\Arena.dll
+C:\Users\Jay Dong\source\repos\HungerGames2020\Arena\obj\Debug\netstandard2.1\Arena.pdb

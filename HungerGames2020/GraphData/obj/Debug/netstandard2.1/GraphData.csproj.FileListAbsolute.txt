@@ -1,0 +1,11 @@
+C:\Users\Jay Dong\source\repos\HungerGames2020\GraphData\bin\Debug\netstandard2.1\GraphData.deps.json
+C:\Users\Jay Dong\source\repos\HungerGames2020\GraphData\bin\Debug\netstandard2.1\GraphData.dll
+C:\Users\Jay Dong\source\repos\HungerGames2020\GraphData\bin\Debug\netstandard2.1\GraphData.pdb
+C:\Users\Jay Dong\source\repos\HungerGames2020\GraphData\bin\Debug\netstandard2.1\DongUtility.dll
+C:\Users\Jay Dong\source\repos\HungerGames2020\GraphData\bin\Debug\netstandard2.1\DongUtility.pdb
+C:\Users\Jay Dong\source\repos\HungerGames2020\GraphData\obj\Debug\netstandard2.1\GraphData.csprojAssemblyReference.cache
+C:\Users\Jay Dong\source\repos\HungerGames2020\GraphData\obj\Debug\netstandard2.1\GraphData.AssemblyInfoInputs.cache
+C:\Users\Jay Dong\source\repos\HungerGames2020\GraphData\obj\Debug\netstandard2.1\GraphData.AssemblyInfo.cs
+C:\Users\Jay Dong\source\repos\HungerGames2020\GraphData\obj\Debug\netstandard2.1\GraphData.csproj.CopyComplete
+C:\Users\Jay Dong\source\repos\HungerGames2020\GraphData\obj\Debug\netstandard2.1\GraphData.dll
+C:\Users\Jay Dong\source\repos\HungerGames2020\GraphData\obj\Debug\netstandard2.1\GraphData.pdb

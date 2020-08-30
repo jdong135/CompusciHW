@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DongUtility", "DongUtility\DongUtility.csproj", "{48BDA21F-E61A-4FDF-A5FD-6800874363C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphControl", "GraphControl\GraphControl.csproj", "{6FDC1FC0-70A8-43FA-8D3C-7F730581CE1B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiniteElement", "FiniteElement\FiniteElement.csproj", "{3D9B84AA-055A-46BA-A908-EECE0ABBED8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisualizerControl", "VisualizerControl\VisualizerControl.csproj", "{70615C1A-3800-475F-B049-B0A97C7AD7E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MotionVisualizer", "MotionVisualizer\MotionVisualizer.csproj", "{44290B1F-BDB8-4CB0-9036-6DE77194A079}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visualizer", "Visualizer\Visualizer.csproj", "{40B6400D-4886-4227-AF95-496CAAE8B18E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48BDA21F-E61A-4FDF-A5FD-6800874363C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BDA21F-E61A-4FDF-A5FD-6800874363C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BDA21F-E61A-4FDF-A5FD-6800874363C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BDA21F-E61A-4FDF-A5FD-6800874363C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FDC1FC0-70A8-43FA-8D3C-7F730581CE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDC1FC0-70A8-43FA-8D3C-7F730581CE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDC1FC0-70A8-43FA-8D3C-7F730581CE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDC1FC0-70A8-43FA-8D3C-7F730581CE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9B84AA-055A-46BA-A908-EECE0ABBED8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9B84AA-055A-46BA-A908-EECE0ABBED8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9B84AA-055A-46BA-A908-EECE0ABBED8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9B84AA-055A-46BA-A908-EECE0ABBED8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70615C1A-3800-475F-B049-B0A97C7AD7E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70615C1A-3800-475F-B049-B0A97C7AD7E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70615C1A-3800-475F-B049-B0A97C7AD7E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70615C1A-3800-475F-B049-B0A97C7AD7E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44290B1F-BDB8-4CB0-9036-6DE77194A079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44290B1F-BDB8-4CB0-9036-6DE77194A079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44290B1F-BDB8-4CB0-9036-6DE77194A079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44290B1F-BDB8-4CB0-9036-6DE77194A079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B6400D-4886-4227-AF95-496CAAE8B18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B6400D-4886-4227-AF95-496CAAE8B18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B6400D-4886-4227-AF95-496CAAE8B18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B6400D-4886-4227-AF95-496CAAE8B18E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FEBEB58-092E-4783-8065-BEC6DF079CA1}
+	EndGlobalSection
+EndGlobal

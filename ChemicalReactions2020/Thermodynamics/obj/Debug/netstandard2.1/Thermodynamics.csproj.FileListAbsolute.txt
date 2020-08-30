@@ -1,0 +1,11 @@
+C:\Users\Jay Dong\Source\Repos\ChemicalReactions2020\Thermodynamics\bin\Debug\netstandard2.1\Thermodynamics.deps.json
+C:\Users\Jay Dong\Source\Repos\ChemicalReactions2020\Thermodynamics\bin\Debug\netstandard2.1\Thermodynamics.dll
+C:\Users\Jay Dong\Source\Repos\ChemicalReactions2020\Thermodynamics\bin\Debug\netstandard2.1\Thermodynamics.pdb
+C:\Users\Jay Dong\Source\Repos\ChemicalReactions2020\Thermodynamics\bin\Debug\netstandard2.1\DongUtility.dll
+C:\Users\Jay Dong\Source\Repos\ChemicalReactions2020\Thermodynamics\bin\Debug\netstandard2.1\DongUtility.pdb
+C:\Users\Jay Dong\Source\Repos\ChemicalReactions2020\Thermodynamics\obj\Debug\netstandard2.1\Thermodynamics.csprojAssemblyReference.cache
+C:\Users\Jay Dong\Source\Repos\ChemicalReactions2020\Thermodynamics\obj\Debug\netstandard2.1\Thermodynamics.AssemblyInfoInputs.cache
+C:\Users\Jay Dong\Source\Repos\ChemicalReactions2020\Thermodynamics\obj\Debug\netstandard2.1\Thermodynamics.AssemblyInfo.cs
+C:\Users\Jay Dong\Source\Repos\ChemicalReactions2020\Thermodynamics\obj\Debug\netstandard2.1\Thermodynamics.csproj.CopyComplete
+C:\Users\Jay Dong\Source\Repos\ChemicalReactions2020\Thermodynamics\obj\Debug\netstandard2.1\Thermodynamics.dll
+C:\Users\Jay Dong\Source\Repos\ChemicalReactions2020\Thermodynamics\obj\Debug\netstandard2.1\Thermodynamics.pdb

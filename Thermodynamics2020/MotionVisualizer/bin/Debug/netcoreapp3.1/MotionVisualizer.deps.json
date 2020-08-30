@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MotionVisualizer/1.0.0": {
+        "dependencies": {
+          "GraphControl": "1.0.0",
+          "VisualizerControl": "1.0.0"
+        },
+        "runtime": {
+          "MotionVisualizer.dll": {}
+        }
+      },
+      "DongUtility/1.0.0": {
+        "runtime": {
+          "DongUtility.dll": {}
+        }
+      },
+      "GraphControl/1.0.0": {
+        "runtime": {
+          "GraphControl.dll": {}
+        }
+      },
+      "VisualizerControl/1.0.0": {
+        "dependencies": {
+          "DongUtility": "1.0.0",
+          "WPFUtility": "1.0.0"
+        },
+        "runtime": {
+          "VisualizerControl.dll": {}
+        }
+      },
+      "WPFUtility/1.0.0": {
+        "dependencies": {
+          "DongUtility": "1.0.0"
+        },
+        "runtime": {
+          "WPFUtility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MotionVisualizer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DongUtility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VisualizerControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WPFUtility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

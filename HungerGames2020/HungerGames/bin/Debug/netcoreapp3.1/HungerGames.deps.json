@@ -1,0 +1,139 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HungerGames/1.0.0": {
+        "dependencies": {
+          "Arena": "1.0.0",
+          "ArenaVisualizer": "1.0.0",
+          "DongUtility": "1.0.0",
+          "GraphControl": "1.0.0",
+          "HungerGamesCore": "1.0.0",
+          "HungerGamesInterface": "1.0.0"
+        },
+        "runtime": {
+          "HungerGames.dll": {}
+        }
+      },
+      "Arena/1.0.0": {
+        "dependencies": {
+          "DongUtility": "1.0.0",
+          "GraphData": "1.0.0"
+        },
+        "runtime": {
+          "Arena.dll": {}
+        }
+      },
+      "ArenaVisualizer/1.0.0": {
+        "dependencies": {
+          "Arena": "1.0.0",
+          "DongUtility": "1.0.0",
+          "GraphControl": "1.0.0"
+        },
+        "runtime": {
+          "ArenaVisualizer.dll": {}
+        }
+      },
+      "DongUtility/1.0.0": {
+        "runtime": {
+          "DongUtility.dll": {}
+        }
+      },
+      "GraphControl/1.0.0": {
+        "dependencies": {
+          "DongUtility": "1.0.0",
+          "GraphData": "1.0.0",
+          "WPFUtility": "1.0.0"
+        },
+        "runtime": {
+          "GraphControl.dll": {}
+        }
+      },
+      "GraphData/1.0.0": {
+        "dependencies": {
+          "DongUtility": "1.0.0"
+        },
+        "runtime": {
+          "GraphData.dll": {}
+        }
+      },
+      "HungerGamesCore/1.0.0": {
+        "dependencies": {
+          "Arena": "1.0.0",
+          "DongUtility": "1.0.0"
+        },
+        "runtime": {
+          "HungerGamesCore.dll": {}
+        }
+      },
+      "HungerGamesInterface/1.0.0": {
+        "dependencies": {
+          "DongUtility": "1.0.0",
+          "HungerGamesCore": "1.0.0"
+        },
+        "runtime": {
+          "HungerGamesInterface.dll": {}
+        }
+      },
+      "WPFUtility/1.0.0": {
+        "dependencies": {
+          "DongUtility": "1.0.0"
+        },
+        "runtime": {
+          "WPFUtility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HungerGames/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Arena/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArenaVisualizer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DongUtility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HungerGamesCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HungerGamesInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WPFUtility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
